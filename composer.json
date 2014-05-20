@@ -1,0 +1,11 @@
+{
+    "name": "ministrygmbh/morrow-quality",
+    "type": "project",
+    "description": "",
+    "keywords": ["php","framework"],
+    "homepage": "",
+    "license": "LGPL-3.0",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
